@@ -1,4 +1,4 @@
-coolsoft-13
-===========
+CoolSoft '13
+============
 
-Coolsoft 2013 public repo. (to be updated)
+Mina Nagy Zaki was here.
